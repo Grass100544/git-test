@@ -8,7 +8,7 @@ public class HelloService {
 	
 	@Test
 	public void testName() throws Exception {
-		
+		System.out.println("hox-fit....");
 	}
 
 }
